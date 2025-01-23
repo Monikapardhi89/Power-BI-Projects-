@@ -2,12 +2,12 @@
 ### Descriptions
 The Twitter Analytics Dashboard provides an in-depth view of social media interactions, including metrics like tweet volume, user engagement, sentiment analysis, and trending hashtags. It aims to assist businesses and individuals in understanding their online presence and audience behavior.  
 ### Overview 
-**Welcome to the Power BI Projects Repository! This repository highlights various dashboards and reports created using Power BI to derive actionable insights and improve data-driven decision-making. The current project is based on the Tweet Dataset, designed to analyze and visualize key trends and patterns in social media data.
+= Welcome to the Power BI Projects Repository! This repository highlights various dashboards and reports created using Power BI to derive actionable insights and improve data-driven decision-making. The current project is based on the Tweet Dataset, designed to analyze and visualize key trends and patterns in social media data.
 ### Key Features
-**Overview of Tweet Activity: Total tweets, retweets, likes, and replies .
-**Trend Analysis: Time-series charts showing tweet frequency and engagement over time.
-**Top Performing Content: Identification of most liked and retweeted tweets.
-**Hashtag Analysis: Insights into trending hashtags and their usage patterns.
+- Overview of Tweet Activity: Total tweets, retweets, likes, and replies .
+- Trend Analysis: Time-series charts showing tweet frequency and engagement over time.
+- Top Performing Content: Identification of most liked and retweeted tweets.
+- Hashtag Analysis: Insights into trending hashtags and their usage patterns.
 ## How to Use
 1. **Dataset Preparation:**  
    - The provided dataset `Tweet.xlsx` contains raw data for the dashboard.  
