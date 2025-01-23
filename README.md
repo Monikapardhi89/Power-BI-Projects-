@@ -20,5 +20,5 @@ The Twitter Analytics Dashboard provides an in-depth view of social media intera
    - Use the reports to derive insights about social media engagement and content performance.
  ## Dataset Details
 - **File Name:** Tweet.xlsx  
-- **Description:** Contains information related to tweets, including timestamps, user engagement metrics (likes, retweets), hashtags, and sentiment scores.  
+- **Description:** Contains information related to tweets, including timestamps, Comparsions between Enagements and tweets with app opens and also without app opens.  
 - **Source:** [Null Class]  
